@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Creas-Crave-Capstone/static/css/main.9f49dd1d.chunk.css",
-    "main.js": "/Creas-Crave-Capstone/static/js/main.604e205f.chunk.js",
-    "main.js.map": "/Creas-Crave-Capstone/static/js/main.604e205f.chunk.js.map",
+    "main.css": "/Creas-Crave-Capstone/static/css/main.407ef9af.chunk.css",
+    "main.js": "/Creas-Crave-Capstone/static/js/main.1eb3607a.chunk.js",
+    "main.js.map": "/Creas-Crave-Capstone/static/js/main.1eb3607a.chunk.js.map",
     "runtime-main.js": "/Creas-Crave-Capstone/static/js/runtime-main.220d653e.js",
     "runtime-main.js.map": "/Creas-Crave-Capstone/static/js/runtime-main.220d653e.js.map",
     "static/js/2.b4cf9c5e.chunk.js": "/Creas-Crave-Capstone/static/js/2.b4cf9c5e.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.619ece76.chunk.js": "/Creas-Crave-Capstone/static/js/3.619ece76.chunk.js",
     "static/js/3.619ece76.chunk.js.map": "/Creas-Crave-Capstone/static/js/3.619ece76.chunk.js.map",
     "index.html": "/Creas-Crave-Capstone/index.html",
-    "static/css/main.9f49dd1d.chunk.css.map": "/Creas-Crave-Capstone/static/css/main.9f49dd1d.chunk.css.map",
+    "static/css/main.407ef9af.chunk.css.map": "/Creas-Crave-Capstone/static/css/main.407ef9af.chunk.css.map",
     "static/js/2.b4cf9c5e.chunk.js.LICENSE.txt": "/Creas-Crave-Capstone/static/js/2.b4cf9c5e.chunk.js.LICENSE.txt",
     "static/media/CrocWalk.fe2b0f14.mp4": "/Creas-Crave-Capstone/static/media/CrocWalk.fe2b0f14.mp4",
     "static/media/FloralFloor.b34d55a6.mp4": "/Creas-Crave-Capstone/static/media/FloralFloor.b34d55a6.mp4",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.220d653e.js",
     "static/js/2.b4cf9c5e.chunk.js",
-    "static/css/main.9f49dd1d.chunk.css",
-    "static/js/main.604e205f.chunk.js"
+    "static/css/main.407ef9af.chunk.css",
+    "static/js/main.1eb3607a.chunk.js"
   ]
 }
