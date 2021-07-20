@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Creas-Crave-Capstone/static/css/main.c02a8427.chunk.css",
-    "main.js": "/Creas-Crave-Capstone/static/js/main.1eb3607a.chunk.js",
-    "main.js.map": "/Creas-Crave-Capstone/static/js/main.1eb3607a.chunk.js.map",
+    "main.css": "/Creas-Crave-Capstone/static/css/main.95e0331f.chunk.css",
+    "main.js": "/Creas-Crave-Capstone/static/js/main.79160839.chunk.js",
+    "main.js.map": "/Creas-Crave-Capstone/static/js/main.79160839.chunk.js.map",
     "runtime-main.js": "/Creas-Crave-Capstone/static/js/runtime-main.220d653e.js",
     "runtime-main.js.map": "/Creas-Crave-Capstone/static/js/runtime-main.220d653e.js.map",
     "static/js/2.b4cf9c5e.chunk.js": "/Creas-Crave-Capstone/static/js/2.b4cf9c5e.chunk.js",
@@ -10,22 +10,28 @@
     "static/js/3.619ece76.chunk.js": "/Creas-Crave-Capstone/static/js/3.619ece76.chunk.js",
     "static/js/3.619ece76.chunk.js.map": "/Creas-Crave-Capstone/static/js/3.619ece76.chunk.js.map",
     "index.html": "/Creas-Crave-Capstone/index.html",
-    "static/css/main.c02a8427.chunk.css.map": "/Creas-Crave-Capstone/static/css/main.c02a8427.chunk.css.map",
+    "static/css/main.95e0331f.chunk.css.map": "/Creas-Crave-Capstone/static/css/main.95e0331f.chunk.css.map",
     "static/js/2.b4cf9c5e.chunk.js.LICENSE.txt": "/Creas-Crave-Capstone/static/js/2.b4cf9c5e.chunk.js.LICENSE.txt",
     "static/media/CrocWalk.fe2b0f14.mp4": "/Creas-Crave-Capstone/static/media/CrocWalk.fe2b0f14.mp4",
+    "static/media/CrocWalkStyled.bfd8de4b.mp4": "/Creas-Crave-Capstone/static/media/CrocWalkStyled.bfd8de4b.mp4",
     "static/media/FloralFloor.b34d55a6.mp4": "/Creas-Crave-Capstone/static/media/FloralFloor.b34d55a6.mp4",
+    "static/media/FloralFloorStyled.7bca8da3.mp4": "/Creas-Crave-Capstone/static/media/FloralFloorStyled.7bca8da3.mp4",
     "static/media/Leaf.509fad0c.mp4": "/Creas-Crave-Capstone/static/media/Leaf.509fad0c.mp4",
+    "static/media/LeafStyled.ccb93c49.mp4": "/Creas-Crave-Capstone/static/media/LeafStyled.ccb93c49.mp4",
     "static/media/PalmTree.50f7f0e9.mp4": "/Creas-Crave-Capstone/static/media/PalmTree.50f7f0e9.mp4",
     "static/media/PalmTreeFull.bed4d015.mp4": "/Creas-Crave-Capstone/static/media/PalmTreeFull.bed4d015.mp4",
+    "static/media/PalmTreeFullStyled.a2c26c0b.mp4": "/Creas-Crave-Capstone/static/media/PalmTreeFullStyled.a2c26c0b.mp4",
     "static/media/RockyWater.c6efbf66.mp4": "/Creas-Crave-Capstone/static/media/RockyWater.c6efbf66.mp4",
+    "static/media/RockyWaterStyled.11e7ed65.mp4": "/Creas-Crave-Capstone/static/media/RockyWaterStyled.11e7ed65.mp4",
     "static/media/WaterWalk.30a873f3.mp4": "/Creas-Crave-Capstone/static/media/WaterWalk.30a873f3.mp4",
+    "static/media/WaterWalkStyled.1c77f41b.mp4": "/Creas-Crave-Capstone/static/media/WaterWalkStyled.1c77f41b.mp4",
     "static/media/lmDevLogo.2699b641.png": "/Creas-Crave-Capstone/static/media/lmDevLogo.2699b641.png",
     "static/media/shoppingCart.a308008b.png": "/Creas-Crave-Capstone/static/media/shoppingCart.a308008b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.220d653e.js",
     "static/js/2.b4cf9c5e.chunk.js",
-    "static/css/main.c02a8427.chunk.css",
-    "static/js/main.1eb3607a.chunk.js"
+    "static/css/main.95e0331f.chunk.css",
+    "static/js/main.79160839.chunk.js"
   ]
 }
