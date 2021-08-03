@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Creas-Crave-Capstone/static/css/main.3e200b3e.chunk.css",
-    "main.js": "/Creas-Crave-Capstone/static/js/main.3f19df2d.chunk.js",
-    "main.js.map": "/Creas-Crave-Capstone/static/js/main.3f19df2d.chunk.js.map",
+    "main.css": "/Creas-Crave-Capstone/static/css/main.7e5b7731.chunk.css",
+    "main.js": "/Creas-Crave-Capstone/static/js/main.f7f4d79f.chunk.js",
+    "main.js.map": "/Creas-Crave-Capstone/static/js/main.f7f4d79f.chunk.js.map",
     "runtime-main.js": "/Creas-Crave-Capstone/static/js/runtime-main.220d653e.js",
     "runtime-main.js.map": "/Creas-Crave-Capstone/static/js/runtime-main.220d653e.js.map",
-    "static/js/2.b4cf9c5e.chunk.js": "/Creas-Crave-Capstone/static/js/2.b4cf9c5e.chunk.js",
-    "static/js/2.b4cf9c5e.chunk.js.map": "/Creas-Crave-Capstone/static/js/2.b4cf9c5e.chunk.js.map",
+    "static/js/2.88a830e6.chunk.js": "/Creas-Crave-Capstone/static/js/2.88a830e6.chunk.js",
+    "static/js/2.88a830e6.chunk.js.map": "/Creas-Crave-Capstone/static/js/2.88a830e6.chunk.js.map",
     "static/js/3.619ece76.chunk.js": "/Creas-Crave-Capstone/static/js/3.619ece76.chunk.js",
     "static/js/3.619ece76.chunk.js.map": "/Creas-Crave-Capstone/static/js/3.619ece76.chunk.js.map",
     "index.html": "/Creas-Crave-Capstone/index.html",
-    "static/css/main.3e200b3e.chunk.css.map": "/Creas-Crave-Capstone/static/css/main.3e200b3e.chunk.css.map",
-    "static/js/2.b4cf9c5e.chunk.js.LICENSE.txt": "/Creas-Crave-Capstone/static/js/2.b4cf9c5e.chunk.js.LICENSE.txt",
+    "static/css/main.7e5b7731.chunk.css.map": "/Creas-Crave-Capstone/static/css/main.7e5b7731.chunk.css.map",
+    "static/js/2.88a830e6.chunk.js.LICENSE.txt": "/Creas-Crave-Capstone/static/js/2.88a830e6.chunk.js.LICENSE.txt",
     "static/media/CrocWalk.fe2b0f14.mp4": "/Creas-Crave-Capstone/static/media/CrocWalk.fe2b0f14.mp4",
     "static/media/CrocWalkStyled.bfd8de4b.mp4": "/Creas-Crave-Capstone/static/media/CrocWalkStyled.bfd8de4b.mp4",
     "static/media/FloralFloor.b34d55a6.mp4": "/Creas-Crave-Capstone/static/media/FloralFloor.b34d55a6.mp4",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.220d653e.js",
-    "static/js/2.b4cf9c5e.chunk.js",
-    "static/css/main.3e200b3e.chunk.css",
-    "static/js/main.3f19df2d.chunk.js"
+    "static/js/2.88a830e6.chunk.js",
+    "static/css/main.7e5b7731.chunk.css",
+    "static/js/main.f7f4d79f.chunk.js"
   ]
 }
