@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Creas-Crave-Capstone/static/css/main.5cb2c91d.chunk.css",
-    "main.js": "/Creas-Crave-Capstone/static/js/main.5c1c4678.chunk.js",
-    "main.js.map": "/Creas-Crave-Capstone/static/js/main.5c1c4678.chunk.js.map",
+    "main.js": "/Creas-Crave-Capstone/static/js/main.3cfe56c7.chunk.js",
+    "main.js.map": "/Creas-Crave-Capstone/static/js/main.3cfe56c7.chunk.js.map",
     "runtime-main.js": "/Creas-Crave-Capstone/static/js/runtime-main.220d653e.js",
     "runtime-main.js.map": "/Creas-Crave-Capstone/static/js/runtime-main.220d653e.js.map",
     "static/js/2.88a830e6.chunk.js": "/Creas-Crave-Capstone/static/js/2.88a830e6.chunk.js",
@@ -26,13 +26,13 @@
     "static/media/WaterWalk.30a873f3.mp4": "/Creas-Crave-Capstone/static/media/WaterWalk.30a873f3.mp4",
     "static/media/WaterWalkStyled.1c77f41b.mp4": "/Creas-Crave-Capstone/static/media/WaterWalkStyled.1c77f41b.mp4",
     "static/media/headShoulder.90e776a8.png": "/Creas-Crave-Capstone/static/media/headShoulder.90e776a8.png",
-    "static/media/lightBulbLikeIcon.da2a0421.png": "/Creas-Crave-Capstone/static/media/lightBulbLikeIcon.da2a0421.png",
+    "static/media/likeCostaRicaMap.5efe4c05.png": "/Creas-Crave-Capstone/static/media/likeCostaRicaMap.5efe4c05.png",
     "static/media/lmDevLogo.2699b641.png": "/Creas-Crave-Capstone/static/media/lmDevLogo.2699b641.png"
   },
   "entrypoints": [
     "static/js/runtime-main.220d653e.js",
     "static/js/2.88a830e6.chunk.js",
     "static/css/main.5cb2c91d.chunk.css",
-    "static/js/main.5c1c4678.chunk.js"
+    "static/js/main.3cfe56c7.chunk.js"
   ]
 }
