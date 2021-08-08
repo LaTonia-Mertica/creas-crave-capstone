@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Creas-Crave-Capstone/static/css/main.554631f2.chunk.css",
-    "main.js": "/Creas-Crave-Capstone/static/js/main.40d81f90.chunk.js",
-    "main.js.map": "/Creas-Crave-Capstone/static/js/main.40d81f90.chunk.js.map",
-    "runtime-main.js": "/Creas-Crave-Capstone/static/js/runtime-main.220d653e.js",
-    "runtime-main.js.map": "/Creas-Crave-Capstone/static/js/runtime-main.220d653e.js.map",
-    "static/js/2.88a830e6.chunk.js": "/Creas-Crave-Capstone/static/js/2.88a830e6.chunk.js",
-    "static/js/2.88a830e6.chunk.js.map": "/Creas-Crave-Capstone/static/js/2.88a830e6.chunk.js.map",
-    "static/js/3.619ece76.chunk.js": "/Creas-Crave-Capstone/static/js/3.619ece76.chunk.js",
-    "static/js/3.619ece76.chunk.js.map": "/Creas-Crave-Capstone/static/js/3.619ece76.chunk.js.map",
+    "main.js": "/Creas-Crave-Capstone/static/js/main.ad7fe6fa.chunk.js",
+    "main.js.map": "/Creas-Crave-Capstone/static/js/main.ad7fe6fa.chunk.js.map",
+    "runtime-main.js": "/Creas-Crave-Capstone/static/js/runtime-main.4aeb16c5.js",
+    "runtime-main.js.map": "/Creas-Crave-Capstone/static/js/runtime-main.4aeb16c5.js.map",
+    "static/js/2.a132c89c.chunk.js": "/Creas-Crave-Capstone/static/js/2.a132c89c.chunk.js",
+    "static/js/2.a132c89c.chunk.js.map": "/Creas-Crave-Capstone/static/js/2.a132c89c.chunk.js.map",
+    "static/js/3.30130a6c.chunk.js": "/Creas-Crave-Capstone/static/js/3.30130a6c.chunk.js",
+    "static/js/3.30130a6c.chunk.js.map": "/Creas-Crave-Capstone/static/js/3.30130a6c.chunk.js.map",
     "index.html": "/Creas-Crave-Capstone/index.html",
     "static/css/main.554631f2.chunk.css.map": "/Creas-Crave-Capstone/static/css/main.554631f2.chunk.css.map",
-    "static/js/2.88a830e6.chunk.js.LICENSE.txt": "/Creas-Crave-Capstone/static/js/2.88a830e6.chunk.js.LICENSE.txt",
+    "static/js/2.a132c89c.chunk.js.LICENSE.txt": "/Creas-Crave-Capstone/static/js/2.a132c89c.chunk.js.LICENSE.txt",
     "static/media/CrocWalk.fe2b0f14.mp4": "/Creas-Crave-Capstone/static/media/CrocWalk.fe2b0f14.mp4",
     "static/media/CrocWalkStyled.bfd8de4b.mp4": "/Creas-Crave-Capstone/static/media/CrocWalkStyled.bfd8de4b.mp4",
     "static/media/FloralFloor.b34d55a6.mp4": "/Creas-Crave-Capstone/static/media/FloralFloor.b34d55a6.mp4",
@@ -30,9 +30,9 @@
     "static/media/lmDevLogo.2699b641.png": "/Creas-Crave-Capstone/static/media/lmDevLogo.2699b641.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.220d653e.js",
-    "static/js/2.88a830e6.chunk.js",
+    "static/js/runtime-main.4aeb16c5.js",
+    "static/js/2.a132c89c.chunk.js",
     "static/css/main.554631f2.chunk.css",
-    "static/js/main.40d81f90.chunk.js"
+    "static/js/main.ad7fe6fa.chunk.js"
   ]
 }
