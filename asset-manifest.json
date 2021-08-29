@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/creas-crave-capstone/static/css/main.480b3d24.chunk.css",
-    "main.js": "/creas-crave-capstone/static/js/main.8aa5eee6.chunk.js",
-    "main.js.map": "/creas-crave-capstone/static/js/main.8aa5eee6.chunk.js.map",
+    "main.js": "/creas-crave-capstone/static/js/main.580c9563.chunk.js",
+    "main.js.map": "/creas-crave-capstone/static/js/main.580c9563.chunk.js.map",
     "runtime-main.js": "/creas-crave-capstone/static/js/runtime-main.72ffbd14.js",
     "runtime-main.js.map": "/creas-crave-capstone/static/js/runtime-main.72ffbd14.js.map",
     "static/js/2.0f22e484.chunk.js": "/creas-crave-capstone/static/js/2.0f22e484.chunk.js",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.72ffbd14.js",
     "static/js/2.0f22e484.chunk.js",
     "static/css/main.480b3d24.chunk.css",
-    "static/js/main.8aa5eee6.chunk.js"
+    "static/js/main.580c9563.chunk.js"
   ]
 }
