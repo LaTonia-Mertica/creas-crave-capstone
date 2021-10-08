@@ -4,6 +4,8 @@
 ###### <a href="https://www.latoniamertica.dev/creas-crave-capstone/" target="_blank">visit Creas Crave Capstone by La'Tonia Mertica</a>
 <br>
 
+<p align="left"><img src="images/trellocapstoneboard.png" width="100%" /title="Capstone Trello Board by La'Tonia Mertica" ></p>
+
 ##### FIRST NAME: La'Tonia Mertica
 ###### note_1: pronounced *luh tone yuh merr treece*
 <br>
