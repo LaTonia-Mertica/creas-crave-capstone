@@ -2,11 +2,10 @@
 
 ###### <a href="https://www.latoniamertica.dev/creas-crave-capstone/" target="_blank">visit Creas Crave Capstone by La'Tonia Mertica</a>
 
-
-*capstone project: creas crave homepage with functional immediate search, gumroad api for cart/purchasing, openWeatherApi for current temperatures, and more. ..part of full stack project.. . github pages deploy for home aka capstone page ... accompanied by separate heroku app deploys for portal and backend ... *
-
+*capstone project: creas crave homepage with functional immediate search, gumroad api for cart/purchasing, openWeatherApi for current temperatures, and more. ..part of full stack project.. . github pages deploy for home aka capstone page ... accompanied by separate heroku app deploys for portal and backend...*
 <br>
 <br>
+
 **HOW WORKS**
 - enter keyword(s) for search ... auto-returned results in body ... no change means invalid keyword<br>
 - click profile icon to access user/admin portal for accounts (i.e. purchase history; creatives favorited; edit/delete user account)<br>
@@ -26,9 +25,10 @@
 5. promote/market to target audience(s)
 6. scale to viable resource for passive income
 7. regularly review, tweak, optimize per metrics
-<br>
+
 <br>
 <p align="left"><img src="images/trellocapstoneboard.png" width="10%" title="Capstone Trello Board by La'Tonia Mertica" /></p>
+<br>
 
 ##### FIRST NAME: La'Tonia Mertica
 ###### note_1: pronounced *luh tone yuh merr treece*
