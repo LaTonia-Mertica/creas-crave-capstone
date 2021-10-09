@@ -4,7 +4,6 @@
 
 *capstone project: creas crave homepage with functional immediate search, gumroad api for cart/purchasing, openWeatherApi for current temperatures, and more. ..part of full stack project.. . github pages deploy for home aka capstone page ... accompanied by separate heroku app deploys for portal and backend...*
 <br>
-<br>
 
 **HOW WORKS**
 - enter keyword(s) for search ... auto-returned results in body ... no change means invalid keyword<br>
@@ -15,7 +14,7 @@
   - MY STORY for brief code/web dev-specific insight
   - PRICING for basic cost per video 
   
-**NOTE:** contact administrator aka La'Tonia Mertica to discuss no-cost use w/full creatives credit 
+**NOTE:** contact administrator aka La'Tonia Mertica to discuss no-cost use w/full creative's credit 
 
 **NEXT STEP** <br>
 1. scale to multiple blocks of creatives (i.e. add industrial-focused creatives)
