@@ -1,21 +1,34 @@
 # Creas Crave Capstone
-*capstone project: creas crave homepage with functional immediate search, gumroad api for cart/purchasing, openWeatherApi for current temperatures, and more. .. part of full stack project using components each as a separate component file - ie. Navbar ... <br>
+*capstone project: creas crave homepage with functional immediate search, gumroad api for cart/purchasing, added features and functionality via BodyLinks, openWeatherApi for current temperatures, . .. part of three-end full stack project using components each as a separate component file - ie. Navbar, CrocWalk, FloralFloor, Leaf ...*<br>
 <br>
 **HOW WORKS**
--
--
--
--
--
+- click: 
+  - CREAS CRAVE in navbar to return to homepage/top of homepage;
+  - profile icon to navigate to creas crave portal accessible via auth0 authn/authz;
+  - plus sign to fave a creative (color changes to gray);
+  - BUY NOW to add creative to cart (add multiples; remove; checkout);
+  - SUBSCRIBE and enter email to join;
+  - CONNECT and click text to visit digital portfolio gateway;
+  - MY STORY to read brief insight into backstory;
+  - PRICING to see cost per video aka creative;
+  - UNSUBSCRIBE and enter email to un-join ...
+
+- hover on creative to play video;
+- enter term(s) in search input for immediate results (no change if term not recognized);
+- view upper footer for current temperature in capital cities of New York, USA and Costa Rica, Central America;
+- visit latoniamertica.dev (as stated in logo) to visit digital portfolio gateway ...
 
 **NEXT STEP** <br>
-1. scale functionality
-2. scale purchase options 
-3. maintain full stack code
+1. media queries (capstone homepage; portal)
+2. link latoniamertica.dev logo to digital portfolio gateway
+3. scale code for:<br> 
+  3a. enhanced functionality<br> 
+  3b. expanded purchase options<br>  
+4. maintain full stack code
 
 **NOTE:** the magic of components is their nature/function of reusability<br> 
 
-###### <a href="https://www.latoniamertica.dev/creas-crave-capstone/" target="_blank">visit Creas Crave Capstone Powered by This Portal by La'Tonia Mertica</a>
+###### <a href="https://www.latoniamertica.dev/creas-crave-capstone/" target="_blank">visit Creas Crave by La'Tonia Mertica</a>
 <br>
 
 ##### FIRST NAME: La'Tonia Mertica
