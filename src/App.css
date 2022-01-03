@@ -1,0 +1,363 @@
+/* @font-face {
+  font-family: "Glacial Indifference";
+  src: url(fonts/GlacialIndifference-Regular.otf) format("otf");
+  src: url(fonts/GlacialIndifference-Bold.otf) format("otf");
+} */
+
+/* html {
+  scroll-behavior: smooth;
+} */
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: "Glacial Indifference", sans-serif;
+
+  margin: 0;
+  overflow-x: hidden;
+  border-bottom: 17px solid white;
+}
+
+#navbarSupportedContent {
+  justify-content: flex-end;
+}
+
+.bglmccsblue {
+  background-color: rgba(92, 225, 230, 0.93);
+  height: 157px;
+  margin-top: -50px;
+}
+
+.navbar-light .navbar-brand {
+  color: white !important;
+  margin-left: 22px;
+}
+
+form > input::placeholder,
+#searchSubmitBtn,
+#emailInput {
+  font-size: smaller;
+}
+
+input#searchInput.form-control.me-2,
+input#searchInput.form-control.me-2:hover {
+  box-shadow: none;
+}
+
+#shopCart {
+  filter: invert();
+  padding-top: 5px;
+}
+
+#headShoulder {
+  filter: invert();
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus,
+.navbar-toggler-icon {
+  filter: invert();
+}
+
+.navbar-toggler {
+  border: transparent;
+}
+
+.container-fluid {
+  margin-top: 44px;
+  margin-left: 0;
+}
+
+#mainTopVideo {
+  margin-top: -43px;
+}
+
+#mainTopVideo,
+#palmTreeFullVideo,
+#palmTreeFullStyledVideo,
+#crocWalkVideo,
+#crocWalkStyledVideo,
+#rockyWaterVideo,
+#rockyWaterStyledVideo,
+#leafVideo,
+#leafStyledVideo,
+#waterWalkVideo,
+#waterWalkStyledVideo,
+#floralFloorVideo,
+#floralFloorStyledVideo {
+  width: 100%;
+  height: auto;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.noPadding {
+  padding-left: 0;
+  padding-right: 6px;
+}
+
+img#plusSignFavIcon.plusSignFavIcon.img-responsive:hover,
+.favorited {
+  transform: scale(1.3);
+  transition: ease-in-out 0.125s;
+  filter: invert(60%);
+}
+
+.btn-secondary {
+  width: 23%;
+  max-width: 23%;
+  max-height: 34px;
+}
+
+.btn-secondary:hover {
+  background-color: #360836 !important;
+}
+
+.zoom:hover {
+  transform: scale(1.25);
+  transition: ease-in-out 0.2s;
+}
+
+.bodyLinks {
+  color: white !important;
+  cursor: pointer;
+
+  text-decoration: none;
+}
+
+#bodyLinks {
+  text-align: center;
+
+  padding: 37px 0;
+  margin-top: -45px;
+  margin-bottom: 6px;
+
+  max-width: auto;
+}
+
+#searchSubmitBtn:hover,
+span#toSubscribe.col.bodyLinks.bodyLinkSubscribe:hover,
+span#toConnect.col.bodyLinks.bodyLinkConnect:hover,
+span#toMyStory.col.bodyLinks.bodyLinkMyStory:hover,
+span#toPricing.col.bodyLinks.bodyLinkPricing:hover,
+span#toUnsubscribe.col.bodyLinks.bodyLinkUnsubscribe:hover {
+  color: #5ce1e6 !important;
+}
+
+span#toSubscribe.col.bodyLinks.bodyLinkSubscribe:hover,
+span#toConnect.col.bodyLinks.bodyLinkConnect:hover,
+span#toMyStory.col.bodyLinks.bodyLinkMyStory:hover,
+span#toPricing.col.bodyLinks.bodyLinkPricing:hover,
+span#toUnsubscribe.col.bodyLinks.bodyLinkUnsubscribe:hover {
+  text-decoration: underline !important;
+}
+
+#underBodyLinks {
+  background-color: #360836;
+  color: white;
+
+  margin-left: 22px;
+}
+
+#input-groupForm {
+  justify-content: center;
+}
+
+form > input::placeholder,
+#emailInput {
+  max-width: 50%;
+}
+
+#gatewayText {
+  font-family: "Alternate Gothic ATF";
+  color: #5ce1e6;
+  font-size: 47.5px;
+  letter-spacing: 2.3px;
+
+  font-variant: small-caps;
+}
+
+#curlyBraces {
+  font-family: "Madrone Std";
+
+  color: #5ce1e6;
+  text-shadow: -1px 0 lightyellow, 0 1px lightyellow, 1.5px 0 lightyellow,
+    0 -1px lightyellow;
+}
+
+.centerStoryText {
+  font-family: "Alternate Gothic ATF";
+  color: #5ce1e6;
+
+  text-align: center;
+  font-size: 13px;
+  letter-spacing: 2.3px;
+}
+
+#dashSign {
+  color: lightyellow;
+}
+
+#mostChallengingCommitment {
+  font-size: 23px;
+  font-variant: small-caps;
+}
+
+.bg-info {
+  background-color: #360836 !important;
+  border-color: white;
+}
+
+p.pricingText {
+  margin-bottom: 0 !important;
+}
+
+sup {
+  vertical-align: super;
+}
+
+.pricingText {
+  color: #5ce1e6;
+
+  letter-spacing: 1.5px;
+  font-size: 67.5px;
+}
+
+#dollarSign,
+#perVideo {
+  color: #5ce1e6;
+  font-size: 13px;
+}
+
+div.col-3 {
+  text-align: center;
+}
+
+#fortyFour {
+  font-family: "Zapfino";
+  text-shadow: -1px 0 lightyellow, 0 1px lightyellow, 1.5px 0 lightyellow,
+    0 -1px lightyellow;
+
+  letter-spacing: 4.3px;
+}
+
+#lmdev-logo {
+  text-align: center;
+  margin: -22px 0;
+}
+
+#lineHte {
+  line-height: 10%;
+}
+
+h1.capstone {
+  font-size: 37px;
+  color: white;
+  text-align: center;
+}
+
+h2#capstone {
+  font-size: medium;
+}
+
+#capstone {
+  color: white;
+  text-align: center;
+}
+
+.capstone,
+#capstone {
+  bottom: 20px;
+  text-align: center;
+}
+
+footer > #footer-details {
+  color: black;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+footer > p {
+  line-height: 0;
+}
+
+h2 {
+  text-align: center;
+}
+
+.notbold {
+  font-weight: normal;
+  font-size: medium;
+  line-height: 5px;
+}
+
+.pronunciation {
+  font-style: italic;
+}
+
+#lmTitle {
+  font-weight: bold;
+}
+
+#emailLink {
+  text-decoration: none;
+  color: black;
+}
+
+.emailHover:hover {
+  color: #5ce1e6 !important;
+}
+
+/* MEDIA QUERIES */
+@media only screen and (max-width: 1068px) {
+  h1.capstone {
+    font-size: x-large;
+    margin-top: 24px;
+  }
+}
+@media only screen and (min-width: 925.1px) {
+  .screenSizeIncreasePlsClass {
+    display: none;
+  }
+  .lgView,
+  .footer {
+    display: block;
+  }
+}
+@media only screen and (max-width: 925px) {
+  .lgView,
+  .footer {
+    display: none;
+  }
+  h1 {
+    color: #c8c4bd;
+    text-shadow: 0.25px 0.25px #545454;
+    text-align: center;
+    font-size: x-large;
+    font-variant: small-caps;
+    font-weight: bold;
+  }
+  h2 {
+    font-style: italic;
+    font-size: small;
+    text-align: center justify;
+  }
+  img {
+    width: 267px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
