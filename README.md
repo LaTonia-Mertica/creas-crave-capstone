@@ -22,6 +22,8 @@ _capstone project: creas crave homepage with functional immediate search, gumroa
 - enter term(s) in search input for immediate results (no change if term not recognized);
 - view upper footer for current temperature in capital cities of New York, USA and Costa Rica, Central America;
 - visit latoniamertica.dev (as stated in logo) to visit digital portfolio gateway ...
+  <br>
+  <br>
 
 **NEXT STEP** <br>
 
